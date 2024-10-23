@@ -1,0 +1,9 @@
+p {
+    text-align: left;
+}
+
+@media screen and (width < 500px) {
+    p {
+        text-align: center;
+    }
+}
